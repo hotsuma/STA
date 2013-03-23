@@ -1,0 +1,33 @@
+h1 Trabalhando com Slim
+
+h2 UL
+ul
+  - (1..10).each do |i|
+    li Item #{i}
+
+h2 OL
+ol
+  - (1..10).each do 
+    li Item 
+
+h2 Interpolação de texto
+p 
+  'Hoje é dia 
+  span= Date.today
+br
+
+h2 Tabelas / Grid
+table(border="1")
+  tr
+    th Name
+    th Nickname
+    th Age
+  tr
+    td Bruno Silva
+    td bsilva
+    td 25
+
+h2 Links
+p= link_to "Ir para o Google!", "http://google.com.br", title: "Ir para o Google", class: "button"
+p
+  a(href="http://google.com.br" title="Google!") Ir para o Google!

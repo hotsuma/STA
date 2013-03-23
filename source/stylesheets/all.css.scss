@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+$blue: blue;
+
+body {
+  font: normal 15px/18px "Arial", sans-serif;
+  margin: 0; padding: 0;
+}
+
+a {
+  color: $blue;
+  &:hover { color: lighten($blue, 15%) }
+}
+
+table {
+  width: 50%;
+
+  th {
+    text-align: left;
+    background: #DDD
+  }
+}
