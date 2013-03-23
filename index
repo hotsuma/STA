@@ -1,2 +1,60 @@
-jsd sijijdajid asdjiijsd a
+<!DOCTYPE Html>
+  
+	<head>
+		<meta charset="utf-8">
+		<title>WTF Web!</title>
+		<link rel="stylesheet" href="stylesheets/application.css">
+	</head>
+	
+	<body>
+		<div id="page">
+			<nav>
+				<div class="wrapper">
+					<a href="index.html" target="_blank" alt="home">home</a>
+					<a href="empresa.html" target="_blank" alt="home">empresa</a>
+					<a href="produtos.html" target="_blank" alt="home">produtos</a>
+					<a href="contact.html" target="_blank" alt="home">contato</a>
+				</div>
+			</nav>				
 
+			<div id="page-content" class="wrapper">
+					
+				<h1>Empresa xubiduba</h1>
+					
+				<p>usce tincidunt ipsum ipsum, sed semper purus. Morbi ac dui est, a lacinia diam. Aliquam et nibh ut justo facilisis ultricies a eget dolor. Suspendisse tempus auctor neque, eget accumsan lorem adipiscing ut. Sed egestas luctus lectus, nec dapibus enim pretium non. Sed in pulvinar ipsum. Aenean placerat, nulla non semper venenatis, massa mi gravida lectus, vel euismod ipsum urna porta augue. Cras sodales neque ultricies ipsum suscipit porttitor
+				</p>
+				
+				<div class='place'>
+					<h2>PMorbi ac dui es</h2>
+					
+					<figure><img src='images/sk.jpg' alt="lol"></figure>
+					<p>Fusce tincidunt ipsum ipsum, sed semper purus. Morbi ac dui est, a lacinia diam. Aliquam et nibh ut justo facilisis ultricies a eget dolor. Suspendisse tempus auctor neque, eget accumsan lorem adipiscing ut. Sed egestas luctus lectus, nec dapibus enim pretium non. Sed in pulvinar ipsum. Aenean placerat, nulla non semper venenatis, massa mi gravida lectus, vel euismod ipsum urna porta augue. Cras sodales neque ultricies ipsum suscipit porttitor.
+					</p>
+				
+				</div>
+
+				<div class='place center'>
+					<h2>PMorbi ac dui es</h2>
+					
+					<figure><img src='images/sk.jpg' alt="lol"></figure>
+					<p>Fusce tincidunt ipsum ipsum, sed semper purus. Morbi ac dui est, a lacinia diam. Aliquam et nibh ut justo facilisis ultricies a eget dolor. Suspendisse tempus auctor neque, eget accumsan lorem adipiscing ut. Sed egestas luctus lectus, nec dapibus enim pretium non. Sed in pulvinar ipsum. Aenean placerat, nulla non semper venenatis, massa mi gravida lectus, vel euismod ipsum urna porta augue. Cras sodales neque ultricies ipsum suscipit porttitor.
+					</p>
+				
+				</div>
+
+				<div class='place'>
+					<h2>PMorbi ac dui es</h2>
+					
+					<figure><img src='images/sk.jpg' alt="lol"></figure>
+					<p>Fusce tincidunt ipsum ipsum, sed semper purus. Morbi ac dui est, a lacinia diam. Aliquam et nibh ut justo facilisis ultricies a eget dolor. Suspendisse tempus auctor neque, eget accumsan lorem adipiscing ut. Sed egestas luctus lectus, nec dapibus enim pretium non. Sed in pulvinar ipsum. Aenean placerat, nulla non semper venenatis, massa mi gravida lectus, vel euismod ipsum urna porta augue. Cras sodales neque ultricies ipsum suscipit porttitor.
+					</p>
+				
+				</div>
+				
+				<section id="page-footer">
+					<footer>282, Maracutaia - Piaiu, BR.</footer>
+				</section>
+			</div>
+		</div>	
+	</body>
+</html> 
