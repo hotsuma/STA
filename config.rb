@@ -1,8 +1,3 @@
-
-# Set slim-lang output style
-Slim::Engine.set_default_options pretty: true
-Slim::Engine.set_default_options disable_escape: true
-
 ###
 # Compass
 ###
